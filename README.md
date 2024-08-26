@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kristian! <br/>Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Kristian! <br/>Aerospace Engineering Major</a>, Computer Science Minor</a>
 
 <h2>👨‍💻 Projects:</h2>
 
