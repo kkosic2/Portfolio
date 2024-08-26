@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kristian! <br/>Aerospace Engineering Major</a>, Computer Science Minor</a>
+<h1>Hi, I'm Kristian!
 
 <h2>👨‍💻 Projects:</h2>
 
