@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>C++</b>
-  - [Tsiolkovsky Rocket Equation (Menu-Driven Demo using Data Structures, Functions and Decision-Making Statements)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Tsiolkovsky Rocket Equation (Menu-Driven Demo using Data Structures, Functions and Decision-Making Statements)](https://github.com/kkosic2/TsiolkovskyRocketEquation)
 
 <h2> 🤳 Connect with me:</h2>
 
