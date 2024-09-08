@@ -4,7 +4,8 @@
 
 - <b>C++</b>
   - [Tsiolkovsky Rocket Equation (Menu-Driven Demo using Data Structures, Functions and Decision-Making Statements)](https://github.com/kkosic2/TsiolkovskyRocketEquation)
-
+  - [Code Reusability Demo (Vertical Class Inheritance)](https://github.com/kkosic2/CodeReusabilityDemo)
+  - 
 <h2> 🤳 Connect with me:</h2>
 
 
